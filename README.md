@@ -1,7 +1,6 @@
 ## Hi there I am  👋 [Ayush Kamboj](https://www.ayushkamboj.tech/)
 
 ### I am Full Stack Web Developer who loves to create React applications and APIs. 
-- 🔭 I’m actively looking for Full Stack Developer job.
 - 🌱 I just completed MERN Stack development bootcamp at Atlcampus.
 - 💬 Passionate about React, NodeJS and JavaScript.
 
