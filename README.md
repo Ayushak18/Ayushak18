@@ -1,7 +1,7 @@
 ## Hi there I am  👋 [Ayush Kamboj](https://www.ayushkamboj.tech/)
 
 ### I am Full Stack Web Developer who loves to create React applications and APIs. 
-- 🌱 I just completed MERN Stack development bootcamp at Atlcampus.
+- 🌱 Full Stack Developer | Computer Science Grad | Altcampus Alumni.
 - 💬 Passionate about React, NodeJS and JavaScript.
 
 ### How to reach me:-
