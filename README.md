@@ -1,14 +1,14 @@
-## Hi there I am  👋 [Ayush Kamboj](https://www.ayushkamboj.tech/)
+## Hi there I am  👋 [Ayush Kamboj](https://elated-engelbart-e40452.netlify.app)
 
-### I am Full Stack Web Developer who loves to create React applications and APIs. 
-- 🌱 Full Stack Developer | Computer Science Grad | Altcampus Alumni.
-- 💬 Passionate about React, NodeJS and JavaScript.
+Experienced Frontend Engineer with 3 years of expertise in building interactive web applications utilizing React, JavaScript
+, and NodeJS. Proficient in implementing new features, optimizing software performance, and ensuring top-notch user
+experience. Skilled in using version control systems to streamline development processes.
 
 ### How to reach me:-
 
-[<img align="left" alt="ayushkamboj.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.ayushkamboj.tech)
+[Porfolio](https://elated-engelbart-e40452.netlify.app)
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dev_Ayush18)
+[Twitter](https://twitter.com/dev_Ayush18)
 
 
 <br>
@@ -32,5 +32,4 @@
 
 ### My GIT STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushak18&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushak18&theme=radical"/>|
-|---|---|
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushak18&theme=radical"/>
