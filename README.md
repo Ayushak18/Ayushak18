@@ -1,6 +1,6 @@
 ## Hi there I am  👋 [Ayush Kamboj](https://elated-engelbart-e40452.netlify.app)
 
-Experienced Frontend Engineer with 3 years of expertise in building interactive web applications utilizing React, JavaScript
+Experienced Full Engineer with 3.5+ years of expertise in building interactive web applications utilizing React, JavaScript
 , and NodeJS. Proficient in implementing new features, optimizing software performance, and ensuring top-notch user
 experience. Skilled in using version control systems to streamline development processes.
 
